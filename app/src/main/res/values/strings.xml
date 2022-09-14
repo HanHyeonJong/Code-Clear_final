@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Code Clear_final</string>
+    <string name="Code_Clear">Code Clear</string>
+    <string name="menu_home">홈</string>
+    <string name="menu_self_check">자가 검진</string>
+    <string name="menu_map">지도</string>
+    <string name="menu_myPage">마이페이지</string>
+    <string name="toast_delete">정말 리스트를 삭제하실건가요?</string>
+    <string name="toast_no">아니요</string>
+    <string name="toast_yes">네</string>
+    <string name="todo_input_hint">오늘 할 일을 입력해주세요!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="feelText">오늘은 어떤 하루였나요?</string>
+
+
+</resources>
